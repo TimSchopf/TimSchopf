@@ -10,7 +10,7 @@
 
 ## 📬 Contact
 
-See bio 👈. Feel free to contact me about on topic!
+See bio 👈. Feel free to contact me on any topic!
 
 
 
