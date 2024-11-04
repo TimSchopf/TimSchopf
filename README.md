@@ -6,7 +6,7 @@
 * 💻 I'm passionate about NLP and Knowledge Graphs but also about Machine Learning, Deep Learning, and Data Science in general.
 * 🎓 I'm a PhD candidate at [Technical University of Munich](https://wwwmatthes.in.tum.de/pages/1n0vb1ew7e6u5/Tim-Schopf "TUM profile Tim Schopf").
 * 📝 I  enjoy writing AI-related articles on [Medium](https://medium.com/@tim.schopf "Medium profile Tim Schopf").
-* 🤗 I contribute open-source models via [Hugging Face](https://huggingface.co/TimSchopf).
+* 🤗 I contribute open-source models and data via [Hugging Face](https://huggingface.co/TimSchopf).
 * 🗣 I'm always up for exciting tech talk.
 * 🌐 Check out my [homepage](https://timschopf.github.io) for more information.
 
