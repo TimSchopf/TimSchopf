@@ -2,12 +2,12 @@
 
 ## 👨🏻‍💻 About Me
 
-* 📍 I'm based in [Dresden, Germany](https://maps.app.goo.gl/owFofiRURwm84Tsb9).
-* 💻 I'm passionate about NLP and Knowledge Graphs but also about Machine Learning, Deep Learning, and Data Science in general.
-* 🎓 I'm a postdoctoral researcher at [ScaDS.AI](https://scads.ai) and [TU Dresden](https://tu-dresden.de/?set_language=en).
+* 📍 I'm based in [Tokyo, Japan](https://maps.app.goo.gl/yp5EAL5AoMrHSB3Y9).
+* 💻 I'm passionate about NLP and Knowledge Graphs, but also about Machine Learning, Deep Learning, and Data Science in general.
+* 🎓 I'm an AI research scientist at the [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/).
 * 📝 I  enjoy writing AI-related articles on [Medium](https://medium.com/@tim.schopf "Medium profile Tim Schopf").
 * 🤗 I contribute open-source models and datasets via [Hugging Face](https://huggingface.co/TimSchopf).
-* 🗣 I'm always up for exciting tech talk.
+* 🗣 I'm always up for an exciting tech talk.
 * 🌐 Check out my [homepage](https://timschopf.github.io) for more information.
 
 ## 📬 Contact
